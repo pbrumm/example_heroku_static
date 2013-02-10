@@ -1,0 +1,15 @@
+To get this running on heroku
+
+install the heroku toolkit.
+
+fork the project
+
+type the following inside the project folder
+  
+   heroku create
+
+then type 
+
+   git push heroku master
+
+
