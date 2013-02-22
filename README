@@ -12,10 +12,14 @@ fork the project
 
 type the following inside the project folder
   
-   heroku create
+    heroku create
 
 then type 
 
-   git push heroku master
+    git push heroku master
 
+The last line of the push will give a url.    Something like
 
+    http://still-bayou-2884.herokuapp.com
+
+It should show Hello World! with is the contents of the public/index.html
